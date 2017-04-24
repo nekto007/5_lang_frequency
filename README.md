@@ -1,6 +1,13 @@
-# Frequency Analysis of Words
+# Скрипт проверки частоты слов в тексте
 
-[TODO. There will be project description]
+Скрипт на вход получет текстовый файл и производит анализ слов и выводит 10 самых популярных слов от самого популярного.
+
+####Для запуска скрипта требуется выполнить команду:
+```{r, engine='bash'}
+
+$ python lang_frequency.py <path to file>
+
+```
 
 # Project Goals
 
